@@ -21,6 +21,7 @@ Documentation
 - [iBeacon… behind the scene (ITA)](http://cloudintouch.it/2014/01/09/ibeacon-behind-the-scene/)
 
 ###Beacon manufacturers
+- [BlueUP](http://www.blue-up.it/index.php?lang=en)
 - [Estimote](http://estimote.com)
 - [Kontakt](http://kontakt.io)
 - [Gimbal](https://www.gimbal.com)
