@@ -10,6 +10,8 @@
 
 extern NSString * const YRNEstimoteUUIDString;
 
+extern NSString * const kYRNBlueBeacon;
+
 /**
  *  Compares hard coded available Estimote beacons.
  */

@@ -10,6 +10,8 @@
 
 NSString * const YRNEstimoteUUIDString = @"B9407F30-F5F8-466E-AFF9-25556B57FE6D";
 
+NSString * const kYRNBlueBeacon = @"ACFD065E-C3C0-11E3-9BBE-1A514932AC01";
+
 // Blue beacon
 static NSUInteger const YRNBlueBeaconMajor = 56595;
 static NSUInteger const YRNBlueBeaconMinor = 24731;

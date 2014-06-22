@@ -166,6 +166,11 @@ forRowAtIndexPath:(NSIndexPath *)indexPath
         [self createNotification:YRNEventTypeWelcome
                        forRegion:region];
     }
+    
+    // bluebecon region
+    if ([[[region proximityUUID] UUIDString] isEqualToString:kYRNBlueBeacon]) {
+        [self createNotification:YRNEventTypeWelcome forRegion:region];
+    }
 }
 
 - (void)beaconManager:(YRNBeaconManager *)manager didExitRegion:(CLBeaconRegion *)region

@@ -4,13 +4,13 @@
 <array>
 	<dict>
 		<key>proximityUUID</key>
-		<string>00000000-0000-0000-0000-000000000000</string>
+		<string>ACFD065E-C3C0-11E3-9BBE-1A514932AC01</string>
 		<key>identifier</key>
-		<string>HiBeacon custom</string>
+		<string>BlueUp-01-000104</string>
 		<key>major</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>minor</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>notifyEntryStateOnDisplay</key>
 		<true/>
 		<key>notifyOnEntry</key>
